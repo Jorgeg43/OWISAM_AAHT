@@ -11,6 +11,8 @@ Características v1.0:
 	[+] Menú de opciones para configurar interfaces de red inalámbrica.
 
 Cómo utilizar:
+	[+] Descargue el código fuente Owisam_AAHT.cpp.
+ 	[+] Compílelo con el comando g++ Owisam_AAHT.cpp OWISAM_AAHT.
 	[+] Inicie OWISAM_AAHT desde una terminal con el siguiente comando: ./OWISAM_AAHT (Le sugerimos que lo ejecute con sudo).
 
 NOTAS IMPORTANTES:
