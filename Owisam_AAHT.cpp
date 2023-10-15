@@ -1,3 +1,6 @@
+//JORGE GÓMEZ MARTÍN ---> jogome13@ucm.es
+// Universidad Europea de Madrid,2023
+// TFM Máster en Seguridad de las TIC.
 #include <iostream>
 #include <cstdlib>
 #include <unistd.h>
